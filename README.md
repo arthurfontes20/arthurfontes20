@@ -1,9 +1,10 @@
 ### Olá, me chamo Arthur Fontes
 
-- Sou formado em Engenharia de produção e apaixonado por tecnologia, atualmente estou estudando linguagens de programação;
+- Estou estudando para me tornar desenvolvedor. Sou formado em Engenharia de Produção e acredito que isso possa agregar, principalmente em relação a gestão de tempo e estruturação de projetos;
+
 - Possuo conhecimentos em Python e SQL.
 
-- Estou a procura da minha primeira oportunidade como programador... 
+- Estou a procura da minha primeira oportunidade... 
 
 - Constantemente trabalhando com projetos pessoais e aprimorando as habilidades. 
 
